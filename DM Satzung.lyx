@@ -1,4 +1,4 @@
-﻿#LyX 2.3 created this file. For more info see http://www.lyx.org/
+#LyX 2.3 created this file. For more info see http://www.lyx.org/
 \lyxformat 544
 \begin_document
 \begin_header
@@ -4845,12 +4845,11 @@ unanfechtbar.
 \end_layout
 
 \begin_layout Standard
-Alle Zustellungen des Schiedsgerichts müssen durch eingeschriebenen Brief
- erfolgen.
+Alle Zustellungen des Schiedsgerichts müssen durch Postzustellung erfolgen.
  Dies gilt insbesondere für alle Anordnungen, die nicht in Anwesenheit der
  Beteiligten ergehen.
- Die Zustellung gilt als erfolgt am dritten Tage nach Auslieferung des Einschrei
-bebriefes bei der Post.
+ Die Zustellung gilt als erfolgt am dritten Tage nach Auslieferung des Briefes
+ bei der Post.
  
 \end_layout
 
