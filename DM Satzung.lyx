@@ -1,4 +1,4 @@
-﻿#LyX 2.3 created this file. For more info see http://www.lyx.org/
+#LyX 2.3 created this file. For more info see http://www.lyx.org/
 \lyxformat 544
 \begin_document
 \begin_header
@@ -2031,7 +2031,11 @@ der Bundesausschuss,
 \end_layout
 
 \begin_layout Enumerate
-der Bundesvorstand.
+der Bundesvorstand,
+\end_layout
+
+\begin_layout Enumerate
+der virtuelle Parteitag.
 \end_layout
 
 \begin_layout Addsec
