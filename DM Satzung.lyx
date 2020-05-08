@@ -1,4 +1,4 @@
-﻿#LyX 2.3 created this file. For more info see http://www.lyx.org/
+#LyX 2.3 created this file. For more info see http://www.lyx.org/
 \lyxformat 544
 \begin_document
 \begin_header
@@ -4241,29 +4241,36 @@ en Aufgaben.
 \end_layout
 
 \begin_layout Enumerate
-Kreisschiedsgerichte,
-\end_layout
-
-\begin_layout Enumerate
-Landesschiedsgerichte, 
-\end_layout
-
-\begin_layout Enumerate
 das Bundesschiedsgericht.
  
 \end_layout
 
-\begin_layout Standard
-(2) Alle Kreis- und Landesverbände müssen Schiedsgerichte einrichten.
- 
+\begin_layout Enumerate
+Schiedsgerichte der Landesverbände
+\end_layout
+
+\begin_layout Enumerate
+Schiedsgerichte der Kreisverbände
 \end_layout
 
 \begin_layout Standard
-(3) Landesverbände können durch Beschluss des Landesparteitages bestimmen,
- dass ein gemeinsames Schiedsgericht für mehrere Kreisverbände errichtet
- wird.
- (4) Alle Schiedsgerichte leisten sich gegenseitig Amts- und Rechtshilfe.
- 
+(2) Das Bundesschiedsgericht kann je nach Erfordernis mehrere Senate bilden.
+\end_layout
+
+\begin_layout Standard
+(3) Für mehrere Gebietsverbände der Kreisstufe können gemeinsame Schiedsgerichte
+ gebildet werden.
+\end_layout
+
+\begin_layout Standard
+(4) Alle Schiedsgerichte / Senate leisten sich gegenseitig Amts- und Rechtshilfe.
+ Mitglieder der Schiedsgerichte unterer Ebenen fungieren bei Bedarf als
+ Stellvertreter in höheren Ebenen.
+\end_layout
+
+\begin_layout Standard
+(5) Das Sonderrecht der Parteivorsitzenden zur Schlichtung gemäß §15 Absatz
+ 1 Statut bleibt unberührt.
 \end_layout
 
 \begin_layout Addsec
