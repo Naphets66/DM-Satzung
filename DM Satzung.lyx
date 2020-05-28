@@ -4398,7 +4398,7 @@ fe ihnen notwendige Fahrtkosten, Nebenkosten und Auslagen nach FO (Finanzordnung
  Über Ausnahmen entscheidet der Vorsitzende oder sein Stellvertreter.
 \end_layout
 
-\begin_layout Section
+\begin_layout Section*
 Teil II: Verfahren 
 \end_layout
 
@@ -4623,7 +4623,7 @@ e Kreisschiedsge- richt nicht besteht oder nicht ordnungsgemäß besetzt werden
 
 \begin_layout Standard
 (3) Die Landesschiedsgerichte entscheiden ferner über Beschwerden gegen
- Entscheidungen der Kreis- schiedsgerichte.
+ Entscheidungen der Kreisschiedsgerichte.
  
 \end_layout
 
@@ -4637,7 +4637,7 @@ e Kreisschiedsge- richt nicht besteht oder nicht ordnungsgemäß besetzt werden
 
 \begin_layout Enumerate
 rechtliche Auseinandersetzungen zwischen einem oder mehreren Landesverbänden
- und der Bundes- partei, 
+ und der Bundespartei, 
 \end_layout
 
 \begin_layout Enumerate
@@ -4692,9 +4692,7 @@ status open
 
 \end_inset
 
- gegen Maßnahmen nach § 6 PartG – gemäß § 11 Abs.
- 6 Nr.
- 4 Satz 2 DM- Statut
+ gegen Maßnahmen nach § 6 PartG
 \end_layout
 
 \end_deeper
