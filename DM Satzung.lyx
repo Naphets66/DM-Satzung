@@ -1,4 +1,4 @@
-﻿#LyX 2.3 created this file. For more info see http://www.lyx.org/
+#LyX 2.3 created this file. For more info see http://www.lyx.org/
 \lyxformat 544
 \begin_document
 \begin_header
@@ -2886,7 +2886,7 @@ Verfahrensordnung
 
 \begin_layout Standard
 Beschlüsse bedürfen grundsätzlich der einfachen Mehrheit aller abgegebenen
- gültigen Stimmen.
+ gültigen Ja- und Nein-Stimmen.
  Bei Stimmengleichheit gilt ein Antrag als abgelehnt.
  Satzungsänderungen erfordern die absolute Mehrheit der stimmberechtigten
  Mitglieder, ein Auflösungsbeschluss bedarf einer Mehrheit von drei Vierteln.
@@ -3012,6 +3012,11 @@ gten dies verlangt.
 \begin_layout Standard
 (2) Bei der Abstimmung darf jedes Mitglied erklären, dass es sich der Abstimmung
  enthält.
+\end_layout
+
+\begin_layout Standard
+(3) Stimmenthaltungen und ungültige Stimmen sind zur Feststellung der Beschlussf
+ähigkeit mitzuzählen, jedoch nicht zur Ermittlung der Mehrheit.
 \end_layout
 
 \begin_layout Addsec
@@ -3287,7 +3292,7 @@ Für bestimmte Tagesordnungspunkte, insbesondere bei Personaldebatten, können
 \end_layout
 
 \begin_layout Standard
-(2) mit der Mehrheit der abgegebenen gültigen Stimmen.
+(2) mit der Mehrheit der abgegebenen gültigen Ja- und Nein-Stimmen.
  
 \end_layout
 
