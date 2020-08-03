@@ -1,4 +1,4 @@
-﻿#LyX 2.3 created this file. For more info see http://www.lyx.org/
+#LyX 2.3 created this file. For more info see http://www.lyx.org/
 \lyxformat 544
 \begin_document
 \begin_header
@@ -310,82 +310,457 @@ Mitgliedschaft
 \end_layout
 
 \begin_layout Addsec
-§ 3 Voraussetzungen
+§ 3 Arten, Voraussetzungen und Rechte der Mitgliedschaft
 \end_layout
 
 \begin_layout Standard
-(1) Mitglied der Deutschen Mitte kann jede Person werden, die bereit ist,
- die Ziele der Partei zu fördern und außerdem:
+(1) Grundsatzvoraussetzungen
+\end_layout
+
+\begin_layout Standard
+Mitglied oder Unterstützer der Deutschen Mitte im Sinne des Absatzes 2 kann
+ grundsätzlich jede Person werden, die bereit ist, die Ziele der Partei
+ zu fördern und
 \end_layout
 
 \begin_layout Enumerate
+\begin_inset Argument item:1
+status open
+
+\begin_layout Plain Layout
+a)
+\end_layout
+
+\end_inset
+
 mindestens 18 Jahre alt ist
 \end_layout
 
 \begin_layout Enumerate
-nicht infolge Richterspruchs die Wählbarkeit oder das Wahlrecht verloren
- hat 
+\begin_inset Argument item:1
+status open
+
+\begin_layout Plain Layout
+b)
 \end_layout
 
-\begin_layout Enumerate
+\end_inset
+
 die komplette Satzung sowie das gesamte Grundsatzprogramm der DM vollständig
- anerkennt und unterstützt
+ anerkennt und unterstützt und
 \end_layout
 
 \begin_layout Enumerate
-seit mindestens einem Jahr die deutsche Staatsbürgerschaft oder ihren ständigen
- Wohnsitz in der Bundesrepublik Deutschland hat.
- 
+\begin_inset Argument item:1
+status open
+
+\begin_layout Plain Layout
+c)
+\end_layout
+
+\end_inset
+
+die Schiedsgerichtsbarkeit der Deutschen Mitte ausdrücklich anerkennt.
 \end_layout
 
 \begin_layout Subparagraph*
-(2) Gastmitglieder und Unterstützer
+(2) Es werden die folgenden Arten der festen Verbundenheit und Mitgliedschaft
+ unterschieden:
 \end_layout
 
 \begin_layout Enumerate
-Zuständig und entscheidungsberechtigt für Gastmitglieder und Unterstützer
- ist der zuständige Kreisvorstand.
- Wo kein Kreisverband vorhanden ist, entscheidet der Landesvorstand.
- Wo kein Landesvorstand vorhanden ist, entscheidet der Bundesvorstand.
- Ehemalige Mitglieder können nicht Gastmitglieder oder Unterstützer werden.
+Unterstützer 
+\begin_inset Newline newline
+\end_inset
+
+Interessierte können, ohne Mitglied der DM zu werden, den Dauer-Status eines
+ Unterstützers erhalten.
+ Wer nicht Mitglied einer Partei oder einer sonstigen Gruppierung ist, die
+ mit der DM in Konkurrenz tritt, der DM nahe steht und sich ihren Grundwerten
+ und Zielen verbunden weiß, kann auf schriftlichen Antrag durch Beschluss
+ des zuständigen Vorstandes den Status eines Unterstützers erhalten.
+ Der Statuts endet nicht automatisch, sondern ist grundsätzlich auf Dauer
+ angelegt.
+ Der Unterstützer kann mit einer schriftlichen Erklärung gegenüber dem Bundesvor
+stand zum Ende des jeweiligen Kalenderjahres kündigen.
+ Unterstützer zahlen vollen Beitrag nach FO.
 \end_layout
 
 \begin_layout Enumerate
-Wer nicht Staatsangehöriger eines Mitgliedstaates der Europäischen Union
- ist, kann als Gast in der Partei mitwirken.
- Sobald er nachweisbar mindestens während drei Jahren ununterbrochen im
- Geltungsbereich des Grundgesetzes wohnt, kann er in die Partei aufgenommen
- werden.
- 
+Mitglieder
 \end_layout
 
+\begin_deeper
 \begin_layout Enumerate
+Mitgliedschaft auf Zeit - Gastmitglied
+\begin_inset Newline newline
+\end_inset
+
 Wer nicht Mitglied einer Partei oder einer sonstigen Gruppierung ist, die
  mit der DM in Konkurrenz tritt, der DM nahe steht und sich ihren Grundwerten
  und Zielen verbunden weiß, kann auf schriftlichen Antrag durch Beschluss
- des zuständigen Kreisvorstandes den Status eines Gastmitgliedes erhalten.
- Im Antrag ist die Anerkennung der Schiedsgerichtsbarkeit der Partei enthalten.
- Ein Gastmitglied kann an allen Mitgliederversammlungen teilnehmen und hat
- dort Rede-, Antrags- und Vorschlagsrecht.
- An Wahlen und Abstimmungen teilzunehmen sowie gewählten Gremien anzugehören,
- ist für Gastmitglieder auf Projektgruppen beschränkt.
- Gastmitglieder sind grundsätzlich beitragspflichtig laut FO.
- Die Gastmitgliedschaft endet nach Ablauf eines Jahres automatisch, falls
- nicht das Gastmitglied vorher der DM beitritt.
- Gastmitglieder sollen entsprechend ihren Möglichkeiten durch freiwillige
- Zuwendungen zur Finanzierung der Parteiarbeit beitragen.
+ des zuständigen Vorstandes den Status eines Gastmitgliedes erhalten.
+ Die Gastmitgliedschaft endet nach Ablauf eines Jahres automatisch zum Ende
+ des jeweiligen Kalenderjahres, falls nicht das Gastmitglied vorher der
+ DM als Dauermitglied wirksam beitritt.
 \end_layout
 
 \begin_layout Enumerate
-Interessierte können, ohne Mitglied oder Gastmitglied der DM zu werden,
- den Status eines Unterstützers erhalten.
- Unterstützer können in einer Arbeitsgemeinschaft oder einem Themenforum
- die vollen Mitgliedsrechte wahrnehmen.
- Vertreter dieser Arbeitsgemeinschaften oder Themenforen in Gremien der
- Partei müssen Parteimitglieder sein.
- Der Unterstützerantrag ist schriftlich zu stellen und mit der Anerkennung
- der Schiedsgerichtsbarkeit der Partei verbunden.
- Unterstützer zahlen vollen Beitrag nach FO.
+Dauermitgliedschaft
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+\begin_inset Argument item:1
+status open
+
+\begin_layout Plain Layout
+b1)
+\end_layout
+
+\end_inset
+
+Fördermitglied
+\end_layout
+
+\begin_layout Enumerate
+\begin_inset Argument item:1
+status open
+
+\begin_layout Plain Layout
+b2)
+\end_layout
+
+\end_inset
+
+Voll-/Funktionsmitglied
+\end_layout
+
+\end_deeper
+\end_deeper
+\begin_layout Enumerate
+Voraussetzungen für die Einordnung und Mitgliedsstatus gemäß Abs.
+ 2
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+\begin_inset Argument item:1
+status open
+
+\begin_layout Plain Layout
+3.1) 
+\end_layout
+
+\end_inset
+
+Antrag und schriftliche Erklärung
+\begin_inset Newline newline
+\end_inset
+
+Bewerber müssen im Antrag und ggf.
+ regelmäßig oder auf Aufforderung des zuständigen Vorstandes schriftlich
+ erklären und bestätigen:
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+\begin_inset Argument item:1
+status open
+
+\begin_layout Plain Layout
+a)
+\end_layout
+
+\end_inset
+
+in Deutschland in den letzten fünf Jahren für keine Partei und/oder Gruppe
+ außerhalb des politischen Spektrums des Deutschen Bundestages direkt oder
+ indirekt tätig oder dort Mitglied gewesen zu sein,
+\end_layout
+
+\begin_layout Enumerate
+\begin_inset Argument item:1
+status open
+
+\begin_layout Plain Layout
+b)
+\end_layout
+
+\end_inset
+
+keiner rechtsextremen, linksextremen oder ausländerfeindlichen Organisation
+ anzugehören oder in den letzten fünf Jahren als Mitglied angehört zu haben
+ und sich vorbehaltlos zur freiheitlich-demokratischen Grundordnung der
+ Bundesrepublik Deutschland zu bekennen,
+\end_layout
+
+\begin_layout Enumerate
+\begin_inset Argument item:1
+status open
+
+\begin_layout Plain Layout
+c)
+\end_layout
+
+\end_inset
+
+in den letzten 12 Monaten in Deutschland für keine andere Partei und/oder
+ Gruppe außer der Deutschen Mitte direkt oder indirekt tätig oder dort Mitglied
+ gewesen zu sein.
+\end_layout
+
+\begin_layout Enumerate
+\begin_inset Argument item:1
+status open
+
+\begin_layout Plain Layout
+d)
+\end_layout
+
+\end_inset
+
+sämtliche Angaben und Erklärungen bzw.
+ Einverständniserklärungen, soweit sie zur Erfüllung gesetzlicher Auflagen
+ notwendig oder der reibungslosen Parteiarbeit zu dienen geeignet sind gemäß
+ Beschlusslage des Bundesvorstandes.
+ Dieses sind z.B.
+ (keine abschließende Aufzählung):
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Angaben und Unterlagen zur Feststellung der Identität (Geldwäschegesetz)
+\end_layout
+
+\begin_layout Itemize
+Einwilligung gemäß Datenschutz
+\end_layout
+
+\begin_layout Itemize
+Einwilligung in die Datennutzung zu weitern Zwecken gemäß jeweils aktuellem
+ Formular
+\end_layout
+
+\begin_layout Itemize
+Zustimmung zur elektronischen Kommunikation
+\end_layout
+
+\begin_layout Itemize
+Zustimmung zur Offenlegung von Daten zum Zwecke der Prüfung oder Zertifizierung
+\end_layout
+
+\begin_layout Itemize
+Zustimmung zur Abtretung von Parteibeiträgen
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+\begin_inset Argument item:1
+status open
+
+\begin_layout Plain Layout
+e)
+\end_layout
+
+\end_inset
+
+Verpflichtung zur schriftlichen Meldung von Änderungen der Stammdaten wie
+ z.B.
+ Name, Adresse, Familienstand, aktuelle Bankverbindung o.ä..
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+\begin_inset Argument item:1
+status open
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+Nicht, nicht vollständig oder nicht rechtzeitig erfolgte Anträge, Erklärungen,
+ Bestätigungen oder Mitteilungen gehen zu Lasten des Mitgliedes, Unterstützers
+ oder Interessenten.
+\end_layout
+
+\begin_layout Enumerate
+\begin_inset Argument item:1
+status open
+
+\begin_layout Plain Layout
+3.2
+\end_layout
+
+\end_inset
+
+Staatsbürgerschaft und Aufenthalt oder ständiger Wohnsitz
+\begin_inset Newline newline
+\end_inset
+
+Für eine Mitgliedschaft im Sinne des Abs.
+ 2.2 ist weitere Voraussetzung in diesem Sinne:
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+\begin_inset Argument item:1
+status open
+
+\begin_layout Plain Layout
+a)
+\end_layout
+
+\end_inset
+
+die Deutsche Staatsbürgerschaft,
+\end_layout
+
+\begin_layout Enumerate
+\begin_inset Argument item:1
+status open
+
+\begin_layout Plain Layout
+b)
+\end_layout
+
+\end_inset
+
+für Bürger eines EU-Mitgliedsstaates ein Wohnsitz oder ständiger Aufenthalt
+ in der Bundesrepublik Deutschland seit mindestens einem Jahr,
+\end_layout
+
+\begin_layout Enumerate
+\begin_inset Argument item:1
+status open
+
+\begin_layout Plain Layout
+c)
+\end_layout
+
+\end_inset
+
+für Staatsbürger eines Nicht-EUMitgliedsstaates ein Wohnsitz oder ständiger
+ Aufenthalt in der Bundesrepublik Deutschland von mehr als drei Jahren.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+\begin_inset Argument item:1
+status open
+
+\begin_layout Plain Layout
+3.3
+\end_layout
+
+\end_inset
+
+Wahlrecht in Deutschland
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+\begin_inset Argument item:1
+status open
+
+\begin_layout Plain Layout
+a)
+\end_layout
+
+\end_inset
+
+Für eine Mitgliedschaft im Sinne des Absatz 2.2 ist das aktive und passive
+ Wahlrecht in Deutschland erforderlich, das Mitglied darf nicht infolge
+ Richterspruchs die Wählbarkeit oder das Wahlrecht verloren haben.
+\end_layout
+
+\begin_layout Enumerate
+\begin_inset Argument item:1
+status open
+
+\begin_layout Plain Layout
+b)
+\end_layout
+
+\end_inset
+
+Der Nachweis des eigenen Wahlrechtes/Wählbarkeit zum Erreichen oder dem
+ Erhalt des Mitgliedsstatus ist zu führen: 
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+\begin_inset Argument item:1
+status open
+
+\begin_layout Plain Layout
+(ba)
+\end_layout
+
+\end_inset
+
+ Gast-Mitgliedschaft durch eidesstattliche Versicherung im Antrag oder amtlicher
+ Bestätigung,
+\end_layout
+
+\begin_layout Enumerate
+\begin_inset Argument item:1
+status open
+
+\begin_layout Plain Layout
+(bb)
+\end_layout
+
+\end_inset
+
+Fördermitgliedschaft durch regelmäßiger Vorlage eidesstattlicher Versicherungen
+ im Antrag bzw.
+ Mitteilung/Datenbestätigung oder einer aktuellen, amtlichen Bestätigung,
+\end_layout
+
+\begin_layout Enumerate
+\begin_inset Argument item:1
+status open
+
+\begin_layout Plain Layout
+(bc)
+\end_layout
+
+\end_inset
+
+Voll-/Funktionsmitgliedschaft durch regelmäßiger Vorlage einer aktuellen
+ amtlichen Bestätigung.
+\end_layout
+
+\end_deeper
+\end_deeper
+\begin_layout Enumerate
+\begin_inset Argument item:1
+status open
+
+\begin_layout Plain Layout
+(3.4)
+\end_layout
+
+\end_inset
+
+Beitragszahlung
+\begin_inset Newline newline
+\end_inset
+
+Zur Aufrechterhaltung des jeweiligen Status gemäß Abs.
+ 2 bedarf es der Zahlung des Jahresbeitrages entsprechend der Finanzordnung
+ (FO).
+ Ein säumiger Beitrag/- steil gefährdet bei verschuldetem Rückstand grundsätzlic
+h den Status unabhängig von Umfang oder Dauer des Rückstandes oder evtl.
+ Mahnstatus.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Unvereinbarkeit
 \end_layout
 
 \begin_layout Subparagraph
@@ -416,33 +791,63 @@ in den letzten 12 Monaten für keine andere Partei und/oder Gruppe außer
 \end_layout
 
 \begin_layout Enumerate
+\begin_inset Argument item:1
+status open
+
+\begin_layout Plain Layout
+4.1
+\end_layout
+
+\end_inset
+
 Unvereinbar mit der Mitgliedschaft ist darüber hinaus: 
 \end_layout
 
 \begin_deeper
 \begin_layout Description
-a) die gleichzeitige Mitgliedschaft in einer anderen Partei, es sei denn,
+1.
+ die gleichzeitige Mitgliedschaft in einer anderen Partei, es sei denn,
  eine frühere Mitgliedschaft wurde nachweislich trotz Aufforderung/Austrittserkl
 ärung mit Einschreiben/Rückschein nicht durch die betroffene Partei gestrichen.
 \end_layout
 
 \begin_layout Description
-b) die gleichzeitige Mitgliedschaft in einer anderen politischen, mit der
+2.
+ die gleichzeitige Mitgliedschaft in einer anderen politischen, mit der
  DM konkurrierenden Gruppierung oder deren parlamentarischen Vertretung
 \end_layout
 
 \begin_layout Description
-c) die direkte oder indirekte Tätigkeit oder Kandidatur für eine andere
- Partei oder mit der DM konkurrierenden Gruppierung oder deren parlamentarische
+3.
+ die direkte oder indirekte Tätigkeit oder Kandidatur für eine andere Partei
+ oder mit der DM konkurrierenden Gruppierung oder deren parlamentarische
  Vertretung.
 \end_layout
 
 \end_deeper
 \begin_layout Enumerate
+\begin_inset Argument item:1
+status open
+
+\begin_layout Plain Layout
+4.2
+\end_layout
+
+\end_inset
+
 Entsprechendes gilt für Vereinigungen, die gegen die Interessen der DM wirken.
 \end_layout
 
 \begin_layout Enumerate
+\begin_inset Argument item:1
+status open
+
+\begin_layout Plain Layout
+4.3
+\end_layout
+
+\end_inset
+
 Die Feststellung der Unvereinbarkeit trifft der Bundesvorstand.
  Er kann die Feststellung wieder aufheben.
  Die Feststellung bindet auch die Schiedsgerichte.
@@ -450,10 +855,86 @@ Die Feststellung der Unvereinbarkeit trifft der Bundesvorstand.
 \end_layout
 
 \begin_layout Enumerate
+\begin_inset Argument item:1
+status open
+
+\begin_layout Plain Layout
+4.4
+\end_layout
+
+\end_inset
+
 Absatz 1 gilt sinngemäß für kommunale Wählervereinigungen, wenn in derselben
  Kommune bei der gleichen Wahl eine Liste unter Beteiligung der DM besteht.
  Über Ausnahmen entscheidet der zuständige Landesvorstand.
- 
+\end_layout
+
+\begin_layout Enumerate
+\begin_inset Argument item:1
+status open
+
+\begin_layout Plain Layout
+4.5
+\end_layout
+
+\end_inset
+
+Ehemalige Mitglieder können nicht Gastmitglieder oder Unterstützer werden.
+\end_layout
+
+\begin_layout Subparagraph
+(5) Mitgliedsrechte nach Status
+\end_layout
+
+\begin_layout Standard
+Entsprechend der Statuszuordnung des Abs.
+ 2 gliedern sich die Rechte wie folgt:
+\end_layout
+
+\begin_layout Enumerate
+Unterstützer Unterstützer können in einer Arbeitsgemeinschaft oder einem
+ Themenforum die vollen Mitgliedsrechte wahrnehmen.
+ Vertreter dieser Arbeitsgemeinschaften oder Themenforen in Gremien der
+ Partei müssen Parteimitglieder sein.
+\end_layout
+
+\begin_layout Enumerate
+Mitgliedschaft
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Gast-/Fördermitgliedschaft
+\begin_inset Newline newline
+\end_inset
+
+Ein Gast- oder Fördermitglied kann in einer Arbeitsgemeinschaft oder einem
+ Themenforum die vollen Mitgliedsrechte wahrnehmen.
+ Es kann Vertreter dieser Arbeitsgemeinschaften oder Themenforen in Gremien
+ der Partei sein.
+ Ein Gast- oder Fördermitglied kann darüber hinaus an allen Mitgliederversammlun
+gen teilnehmen und hat dort Rede-, Antrags- und Vorschlagsrecht, soweit
+ Gesetz oder Satzung nicht spezielle Einschränkungen vorsehen.
+ An Wahlen und Abstimmungen teilzunehmen sowie gewählten Gremien anzugehören,
+ ist für Gast-/Fördermitglieder auf Projektgruppen beschränkt.
+\end_layout
+
+\begin_layout Enumerate
+Voll-/Funktionsmitgliedschaft
+\begin_inset Newline newline
+\end_inset
+
+Voll-Funktionsmitglieder unterliegen im Rahmen von Gesetz und Satzung keinen
+ Beschränkungen bei der Ausübung von Parteifunktionen und/oder Ämtern.
+ Sie haben volles Stimmrecht in den entsprechenden Gremien und Versammlungen
+ der Partei.
+ Es handelt sich hierbei um die VollMitgliedschaft im Sinne des Parteiengesetzes.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Die nachfolgenden Regelungen der allgemeinen Rechten und Pflichten von Mitgliede
+rn des § 5 Statut bleiben insoweit unberührt.
 \end_layout
 
 \begin_layout Addsec
