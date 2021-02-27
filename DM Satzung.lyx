@@ -313,8 +313,12 @@ Mitgliedschaft
 § 3 Arten, Voraussetzungen und Rechte der Mitgliedschaft
 \end_layout
 
-\begin_layout Standard
+\begin_layout Subparagraph*
 (1) Grundsatzvoraussetzungen
+\begin_inset Newline newline
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -363,7 +367,7 @@ c)
 die Schiedsgerichtsbarkeit der Deutschen Mitte ausdrücklich anerkennt.
 \end_layout
 
-\begin_layout Subparagraph*
+\begin_layout Paragraph*
 (2) Es werden die folgenden Arten der festen Verbundenheit und Mitgliedschaft
  unterschieden:
 \end_layout
@@ -438,18 +442,17 @@ Voll-/Funktionsmitglied
 
 \end_deeper
 \end_deeper
-\begin_layout Enumerate
-Voraussetzungen für die Einordnung und Mitgliedsstatus gemäß Abs.
+\begin_layout Paragraph*
+(3) Voraussetzungen für die Einordnung und Mitgliedsstatus gemäß Abs.
  2
 \end_layout
 
-\begin_deeper
 \begin_layout Enumerate
 \begin_inset Argument item:1
 status open
 
 \begin_layout Plain Layout
-3.1) 
+(3.1) 
 \end_layout
 
 \end_inset
@@ -533,6 +536,7 @@ sämtliche Angaben und Erklärungen bzw.
 Angaben und Unterlagen zur Feststellung der Identität (Geldwäschegesetz)
 \end_layout
 
+\begin_deeper
 \begin_layout Itemize
 Einwilligung gemäß Datenschutz
 \end_layout
@@ -555,6 +559,7 @@ Zustimmung zur Abtretung von Parteibeiträgen
 \end_layout
 
 \end_deeper
+\end_deeper
 \begin_layout Enumerate
 \begin_inset Argument item:1
 status open
@@ -570,13 +575,12 @@ Verpflichtung zur schriftlichen Meldung von Änderungen der Stammdaten wie
  Name, Adresse, Familienstand, aktuelle Bankverbindung o.ä..
 \end_layout
 
-\end_deeper
 \begin_layout Enumerate
 \begin_inset Argument item:1
 status open
 
 \begin_layout Plain Layout
-
+f)
 \end_layout
 
 \end_inset
@@ -586,12 +590,13 @@ Nicht, nicht vollständig oder nicht rechtzeitig erfolgte Anträge, Erklärungen
  oder Interessenten.
 \end_layout
 
+\end_deeper
 \begin_layout Enumerate
 \begin_inset Argument item:1
 status open
 
 \begin_layout Plain Layout
-3.2
+(3.2)
 \end_layout
 
 \end_inset
@@ -652,7 +657,7 @@ für Staatsbürger eines Nicht-EUMitgliedsstaates ein Wohnsitz oder ständiger
 status open
 
 \begin_layout Plain Layout
-3.3
+(3.3)
 \end_layout
 
 \end_inset
@@ -663,7 +668,7 @@ Wahlrecht in Deutschland
 \begin_deeper
 \begin_layout Enumerate
 \begin_inset Argument item:1
-status open
+status collapsed
 
 \begin_layout Plain Layout
 a)
@@ -758,35 +763,7 @@ h den Status unabhängig von Umfang oder Dauer des Rückstandes oder evtl.
  Mahnstatus.
 \end_layout
 
-\end_deeper
-\begin_layout Enumerate
-Unvereinbarkeit
-\end_layout
-
-\begin_layout Subparagraph
-(3) Bewerber müssen schriftlich erklären und bestätigen:
-\end_layout
-
-\begin_layout Enumerate
-in den letzten fünf Jahren für keine Partei und/oder Gruppe außerhalb des
- politischen Spektrums des Deutschen Bundestages direkt oder indirekt tätig
- oder dort Mitglied gewesen zu sein,
-\end_layout
-
-\begin_layout Enumerate
-keiner rechtsextremen, linksextremen oder ausländerfeindlichen Organisation
- anzugehören oder in den letzten fünf Jahren als Mitglied angehört zu haben
- und sich vorbehaltlos zur freiheitlich-demokratischen Grundordnung der
- Bundesrepublik Deutschland zu bekennen.
-\end_layout
-
-\begin_layout Enumerate
-in den letzten 12 Monaten für keine andere Partei und/oder Gruppe außer
- der Deutschen Mitte direkt oder indirekt tätig oder dort Mitglied gewesen
- zu sein
-\end_layout
-
-\begin_layout Subparagraph
+\begin_layout Paragraph
 (4) Unvereinbarkeit
 \end_layout
 
@@ -882,8 +859,12 @@ status open
 Ehemalige Mitglieder können nicht Gastmitglieder oder Unterstützer werden.
 \end_layout
 
-\begin_layout Subparagraph
+\begin_layout Paragraph
 (5) Mitgliedsrechte nach Status
+\begin_inset Newline newline
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -892,8 +873,12 @@ Entsprechend der Statuszuordnung des Abs.
 \end_layout
 
 \begin_layout Enumerate
-Unterstützer Unterstützer können in einer Arbeitsgemeinschaft oder einem
- Themenforum die vollen Mitgliedsrechte wahrnehmen.
+Unterstützer
+\begin_inset Newline newline
+\end_inset
+
+Unterstützer können in einer Arbeitsgemeinschaft oder einem Themenforum
+ die vollen Mitgliedsrechte wahrnehmen.
  Vertreter dieser Arbeitsgemeinschaften oder Themenforen in Gremien der
  Partei müssen Parteimitglieder sein.
 \end_layout
