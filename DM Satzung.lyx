@@ -14,7 +14,7 @@
 \rhead{}
 \rfoot{Seite \thepage \hspace{1pt} von \pageref{LastPage}}
 \lfoot{Autor: AG-Satzung\newline
-Version: 1.0}
+Version: 1.1}
 \renewcommand{\headrulewidth}{0.4pt}
 \renewcommand{\footrulewidth}{0.4pt}
 \end_preamble
