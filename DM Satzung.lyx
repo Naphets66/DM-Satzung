@@ -14,7 +14,7 @@
 \rhead{}
 \rfoot{Seite \thepage \hspace{1pt} von \pageref{LastPage}}
 \lfoot{Autor: AG-Satzung\newline
-Version: 1.0}
+Version: 2.0}
 \renewcommand{\headrulewidth}{0.4pt}
 \renewcommand{\footrulewidth}{0.4pt}
 \end_preamble
@@ -106,7 +106,7 @@ Satzung der Deutschen Mitte
 \begin_layout Standard
 \noindent
 \align center
-Stand 22.08.2020
+Stand 30.01.2021
 \end_layout
 
 \begin_layout Standard
@@ -1383,8 +1383,17 @@ Im Vorfeld von parteiinternen Vorstandswahlen können Mitgliederbefragungen
 
 \begin_layout Standard
 (2) Mitgliedsrechte sind grundsätzlich immer ruhend gestellt, wenn das betreffen
-de Mitglied länger als sechs Monate mit seinen Beitragszahlungen schuldhaft
- im Verzug ist.
+de Mitglied mit Beitragszahlungen länger als sechs Monate oder mit mehr
+ als einer Rate schuldhaft im Verzug ist.
+ Schuldhafter Verzug ist unter anderem immer dann gegeben, wenn Zahlungstermine
+ um mehr als 5 Werktage überschritten oder Lastschrifteinzüge, gleich aus
+ welchem Grund, rückbelastet werden, einer Tilgungsvereinbahrung nicht fristgere
+cht eingehalten oder einer Zahlungsaufforderung/Mahnung nicht binnen 2 Wochenfri
+st nachgekommen wird.
+ Bei schuldhaften Verzug im Sinne dieses Absatzes sind sämtliche getroffenen
+ Raten- und/oder Tilgungsvereinbahrungen hinfällig.
+ Sämtliche offene Jahresrestbeträge sind sofort fällig.
+ Das Ruhen von Mitgliedsrechten entbindet nicht von weiteren Beitragspflichten.
 \end_layout
 
 \begin_layout Addsec
@@ -1405,23 +1414,35 @@ Die Mitgliedschaft erlischt durch Austritt, durch Ausschluss, durch Tod
 \end_layout
 
 \begin_layout Standard
-(1) Der Austritt ist jederzeit möglich.
- Er muss schriftlich erklärt werden und bedarf keiner Begründung.
- Er wird mit Zugang beim zuständigen Kreisverband sofort wirksam und entbindet
- von weiterer Beitragszahlung.
- Ein bei Beendigung der Mitgliedschaft bereits entrichteter Beitrag wird
- nicht zurückgezahlt.
+(1) Zeitpunkt des Austritts, Formvorschrift, Zuständigkeit: 
 \end_layout
 
 \begin_layout Standard
-(2)
+Der Austritt ist jederzeit möglich.
+ Er muss schriftlich gegenüber dem zuständigen Vorstand oder der Bundesgeschäfts
+stelle der Partei erklärt werden und bedarf keiner Begründung.
+ Er wird mit Zugang beim zuständigen Vorstand bzw.
+ Geschäftsstelle sofort wirksam und entbindet von weiterer Beitragszahlung
+ für Folgejahre.
+ Sollte auf Grund von Postlaufzeiten eine Kündigung zum Jahresende technisch
+ erst im neuen Jahr erfolgen (Posteingang), so gilt der Zugang binnen 10
+ Tagen im neuen Jahr für die Rückwirkung als unschädlich; die Kündigung
+ wird dann zum 31.12.
+ des Altjahres wirksam.
+ Ein bei Beendigung der Mitgliedschaft bereits entrichteter Beitrag wird
+ nicht zurückgezahlt (Vorauszahlungen).
+\end_layout
+
+\begin_layout Standard
+(2) Austritt ohne schriftliche Erklärung nach Abs.
+ 1:
 \end_layout
 
 \begin_layout Enumerate
-Als Erklärung des Austritts ist zu behandeln, wenn das Mitglied nach mindestens
- sechsmonatigem Zahlungsrückstand seiner Beiträge trotz zweifacher schriftlicher
- Mahnung den fälligen Beitrag nicht vollständig bezahlt hat.
- Die zweite Mahnung muss mit Einschreibebrief erfolgt sein.
+Als Erklärung des Austritts ist zu behandeln, wenn das Mitglied entsprechend
+ den Regelungen des § 8 Abs.
+ 2 mit Beitragszahlungen schuldhaft in Verzug ist und trotz Zahlungsaufforderung
+/Mahnung seinen Verpflichtungen binnen 30 Tagen nicht nachkommt.
 \end_layout
 
 \begin_layout Enumerate
@@ -1458,8 +1479,10 @@ einen schriftlichen Hinweis auf die Folgen weiteren Zahlungsverzuges enthalten.
 
 \end_deeper
 \begin_layout Enumerate
-Der Kreisverband stellt die Beendigung der Mitgliedschaft fest und muss
- dies dem ausgeschiedenen Mitglied schriftlich mitteilen.
+Der Kreisverband stellt die Beendigung der Mitgliedschaft innerhalb von
+ 14 Tagen nach Zugang fest und muss dies dem ausgeschiedenen Mitglied schriftlic
+h mitteilen.
+ Nur eine schriftlich bestätigte Kündigung gilt als wirksam zugegangen.
  Wo ein zuständiger Kreisverband nicht besteht, handelt der Landesvorstand,
  wo ein Landesverband nicht besteht, handelt der Bundesvorstand.
 \end_layout
@@ -2008,10 +2031,10 @@ Ab einer Gesamtmitgliederzahl von 40.001 wählt der Bundesparteitag weitere
 
 \begin_layout Standard
 (2) Zunächst wird für jedes Bundesland ein Landesverband eingerichtet, sobald
- die Mitgliederzahl im entsprechenden Bundesland die 100 überschreitet.
+ die Mitgliederzahl im entsprechenden Bundesland die 250 überschreitet.
  Auf Beschluss des Bundesvorstandes und in Abstimmung mit dem für Personalfragen
  zuständigen Generalsekretär der Bundespartei kann bei akutem Bedarf (Wahlen)
- auch schon bei Mitgliederzahlen unter 100 ein Landesverband gegründet werden.
+ auch schon bei Mitgliederzahlen unter 250 ein Landesverband gegründet werden.
  Bei Anwachsen der Mitgliederzahl über bestimmte, vom Bundesvorstand festzulegen
 de Größenordnungen hinaus können in jedem Bundesland auch mehrere Landesverbände
  eingerichtet werden.
@@ -2167,10 +2190,10 @@ ei festgelegten Grundlinien und dem Parteiprogramm stehen.
  bestehen.
  Bildung und Abgrenzung eines Kreisverbandes ist Aufgabe des zuständigen
  Landesverbandes.
- Kreisverbände sind ab einer Mitgliederzahl von 100 zu bilden.
+ Kreisverbände sind ab einer Mitgliederzahl von 250 zu bilden.
  Auf Beschluss des Landesvorstandes und in Abstimmung mit dem für Personalfragen
  zuständigen Generalsekretär der Landespartei kann auch schon bei Mitgliederzahl
-en unter 100 ein Kreisverband gegründet werden.
+en unter 250 ein Kreisverband gegründet werden.
 \end_layout
 
 \begin_layout Standard
@@ -2583,14 +2606,6 @@ Von den im Höchstfall 1.000 Delegierten der Landesverbände werden 200 im
  Verhältnis der bei der letzten Wahl zum Deutschen Bundestag fur die einzelnen
  Landeslisten der Deutschen Mitte Deutschlands abgegebenen Zweitstimmen,
  800 im Verhältnis der Mitgliederzahlen der einzelnen Landesverbände entsandt.
- 
-\begin_inset Newline newline
-\end_inset
-
-In der Zeit vor der ersten Bundestagswahl seit DM-Parteigrundung ist bei
- Bundesparteitagen fur alle Delegiertensitze allein die nach § 21 dieses
- Statuts sechs Monate vor dem Bundesparteitag festgestellte Mitgliederzahl
- ausschlaggebend.
  
 \begin_inset Newline newline
 \end_inset
@@ -3373,14 +3388,17 @@ derzahl im entsprechenden Einzugsgebiet der Parteiebene bei der entsprechenden
 
 \begin_layout Standard
 Beschlüsse bedürfen grundsätzlich der einfachen Mehrheit aller abgegebenen
- gültigen Stimmen.
+ gültigen Stimmen der stimmberechtigten Mitglieder des jeweiligen Organs
+ im Sinne des § 38 Statut.
  Bei Stimmengleichheit gilt ein Antrag als abgelehnt.
- Satzungsänderungen erfordern die absolute Mehrheit der stimmberechtigten
- Mitglieder, ein Auflösungsbeschluss bedarf einer Mehrheit von drei Vierteln.
+ Satzungsänderungen erfordern die drei Viertel Mehrheit der abgegebenen
+ gültigen Stimmen, ein Auflösungsbeschluss bedarf einer Mehrheit von drei
+ Vierteln der abgegebenen gültigen Stimmen.
  Alle Etatbeschlüsse sowie die Beschlüsse über den gesetzlichen Rechenschaftsber
-icht der Partei und über die mittelfristige Finanzplanung erfordern die
- Mehrheit der Mitglieder des Vorstandes; für die Zusammensetzung des Vorstandes
- sind die gesetzlichen und satzungsmäßigen Bestimmungen maßgeblich.
+icht der Partei und über die mittelfristige Finanzplanung erfordern einen
+ Mehrheitsbeschluss der Mitglieder des jeweiligen Vorstandes; für die Zusammense
+tzung des Vorstandes sind die gesetzlichen und satzungsmäßigen Bestimmungen
+ maßgeblich.
 \end_layout
 
 \begin_layout Addsec
@@ -3506,59 +3524,30 @@ gten dies verlangt.
 \end_layout
 
 \begin_layout Standard
-(1) Wahlen der Mitglieder des Bundesvorstandes sowie Wahlen der Delegierten
- für den Bundesparteitag und den Bundesausschuss durch die Parteitage der
- nachgeordneten Gebietsverbände erfolgen geheim und durch Stimmzettel.
- Auch die Vorstände und Delegierten der übrigen Organisationsstufen sind
- geheim zu wählen.
+(1) Soweit gesetzlich zulässig, sollen sämtliche Wahlen in offener und namentlic
+her Wahl durchgeführt warden.
+ 
+\end_layout
+
+\begin_layout Standard
+(2) Die Wahlen der Vorstandsmitglieder und der Vertreter zu Vertreterversammlung
+en sowie zu Organen höheren Gebietsverbandes (Bundes-, Landes- und Bezirksebene)
+ erfolgen geheim..
  Bei allen übrigen Wahlen ist offen abzustimmen, wenn auf Befragen kein
  Widerspruch erfolgt.
  
 \end_layout
 
 \begin_layout Standard
-(2) Die bis zu fünf Stellvertretenden Vorsitzenden nach § 27 Abs.
- 2 Ziffer 3 und die bis zu sieben weiteren Mitglieder des Präsidiums nach
- § 27 Abs.
- 2 Ziffer 5 dieses Statuts werden in einem gemeinsamen Wahlgang gewählt:
- durch ein auf dem Stimmzettel hinter den Namen eines Kandidaten gesetztes
- Kreuz.
- Der Stimmzettel hat die Namen aller vorgeschlagenen Kandidaten zu enthalten.
- Stimmzettel, auf denen nicht mindestens die Hälfte der Zahl der zu wählenden
- Kandidaten angekreuzt ist, sind ungültig.
- Stimmzettel, auf denen mehr Namen angekreuzt sind, als der jeweils gültigen
- Zahl der Stellvertretenden Vorsitzenden entspricht, sind ebenfalls ungültig.
- Auf diese Bestimmungen des Statuts muss auf den Stimmzetteln deutlich sichtbar
- hingewiesen werden.
- 
+(3) Alle Wahlen erfordern die Mehrheit der abgegebenen gültigen Stimmen
+ der Stimmberechtigten.
+ Wird die Mehrheit nicht erreicht, entscheidet Stichwahl oder Konsensierung
+ gemäß § 40 Entscheidungen zwischen zwei Kandidaten mit gleicher Stimmenzahl
+ erfordern ebenfalls Stichwahl 
 \end_layout
 
 \begin_layout Standard
-(3) Auch die weiteren Mitglieder des Bundesvorstandes nach § 27 Abs.
- 2 Ziffer 6 dieses Statuts sind durch ein auf dem Stimmzettel hinter den
- Namen eines Kandidaten zu wählen.
- Der jeweilige Stimmzettel hat die Namen aller vorgeschlagenen Kandidaten
- zu enthalten.
- Stimmzettel sind ungültig, wenn darauf nicht mindestens drei Viertel der
- Zahl der zu wählenden Kandidaten angekreuzt sind.
- Ebenfalls ungültig sind Stimmzettel, auf denen mehr Namen angekreuzt sind,
- als der Zahl der weiteren Mitglieder des Bundesvorstandes entspricht.
- Auf diese Bestimmungen des Statuts muss auf den Stimmzetteln deutlich sichtbar
- hingewiesen werden.
- 
-\end_layout
-
-\begin_layout Standard
-(4) Alle Wahlen erfordern die Mehrheit der abgegebenen gültigen Stimmen.
- Wird die Mehrheit nicht erreicht, entscheidet Stichwahl unter den nicht
- gewählten Kandidaten mit den nächstniedrigen Stimmenzahlen.
- Entscheidungen zwischen zwei Kandidaten mit gleicher Stimmenzahl erfordern
- ebenfalls Stichwahl.
- 
-\end_layout
-
-\begin_layout Standard
-(5) Stimmenthaltungen und ungültige Stimmen sind zur Feststellung der Beschlussf
+(4) Stimmenthaltungen und ungültige Stimmen sind zur Feststellung der Beschlussf
 ähigkeit mitzuzählen, jedoch nicht zur Ermittlung der Mehrheit.
 \end_layout
 
@@ -3737,10 +3726,44 @@ Abschnitt A: Vor dem Bundesparteitag
 § 2 Zeitpunkt, Ort, vorläufige Tagesordnung
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Zeitpunkt, Ort und vorläufige Tagesordnung des Bundesparteitages legt der
  Bundesvorstand fest, gemäß den Regelungen des Statuts der DM.
- 
+\end_layout
+
+\begin_layout Enumerate
+Soweit gesetzlich zulässig kann auf Präsenzveranstaltungen verzichtet und
+ statt dessen der Bundesparteitag als sogenannte Onlineveranstaltungen durchgefü
+hrt warden.
+\end_layout
+
+\begin_layout Enumerate
+Sofern ein Bundespateitag in Form einer Onlineveranstaltung gemäß Abs.
+ 2 zulässig ist, liegt es im Ermessen des Bundespräsidiums, Beschlussfassungen,
+ die einem Bundesparteitag obliegen oder darüber hinaus zur Abstimmung vorgelegt
+ werden sollen, ganz oder teilweise in schriftlicher Form oder als Online-Abstim
+mungsverfahren durchzuführen.
+\end_layout
+
+\begin_layout Enumerate
+Für den Fall, dass ein Bundesparteitag in Gänze im Rahmen einer schriftlichen
+ Befragung oder einer Onlineabstimmung gemäß Abs.
+ 3 durchgeführt wird, gelten die Beschlussfähigkeitsgrenzen des § 38 Statut
+ nicht, da in diesem Fall keine Veranstaltung im eigentlichen Sinne (weder
+ Präsenz- noch Online-Veranstaltung) durchgeführt wird, sondern durch eine
+ Befragung der Delegierten/Mitglieder ersetzt wird; es werden nur die abgegeben
+ gültigen Stimmen der stimmberechtigten Mitglieder in analoger Anwendung
+ des § 41 Statut gezählt.
+\end_layout
+
+\begin_layout Enumerate
+Für Abstimmungen im Sinne des Abs.
+ 4 gilt analog zu § 38 Statut eine Einberufungs-/Ankündigungsfrist von zwei
+ Wochen.
+ Im Falle einer schriftlichen Befragung ist eine Ausschlussfrist zur Abgabe/Rück
+sendung des Befragungsbogens festzulegen und entsprechend bekannt zu geben
+ Maßgeblich ist das Datum der Zustellung/Eingang bei der Partei (Posteingang/Fax
+-Zugang/Zustellung auf dem Mail-Server).
 \end_layout
 
 \begin_layout Addsec
@@ -3805,7 +3828,17 @@ Für bestimmte Tagesordnungspunkte, insbesondere bei Personaldebatten, können
  am Versandtag der elektronischen Mails.
  Gleichzeitige Veröffentlichung auf der Internetseite der Bundespartei ist
  Pflicht.
- 
+\end_layout
+
+\begin_layout Standard
+(4) Für einen Bundesparteitag gemäß § 2 Abs 2.
+ 2 und 3 (neu) gilt eine Frist von 14 Tagen.
+\end_layout
+
+\begin_layout Standard
+(5) Für eine reine Abstimmung im Online- oder schriftlichen Verfahren sind
+ die Durchführungsverordnungen für Präsenz- oder Onlineveranstaltungen sinngemäß
+ anzuwenden.
 \end_layout
 
 \begin_layout Addsec
@@ -4033,19 +4066,18 @@ Die Mandatsprüfungskommission, die Stimmzählkommission und die Antragskommissi
 \end_layout
 
 \begin_layout Standard
-(1) Stimmenthaltungen und ungültige Stimmen zählen bei allen Wahlen und
- Abstimmungen für die Ermittlung der Mehrheit der abgegebenen gültigen Stimmen
- nicht mit, werden jedoch zur Feststellung der Beschlussfähigkeit mit herangezog
-en und mitgezählt.
- 
+Die Zählweise von Stimmenthaltungen und ungültigen Stimmen richtet sich
+ nach den §§ 41 und 42 des Statuts.
+ Deren Bedeutung für die Feststellung der Beschlussfähigkeit richtet sich
+ nach § 39 des Statuts.
 \end_layout
 
 \begin_layout Standard
-(2) Wenn für die antrags- oder vorschlagsberechtigte Minderheit oder für
+(1) Wenn für die antrags- oder vorschlagsberechtigte Minderheit oder für
  die bei Wahlen und Abstimmungen erforderliche Mehrheit mindestens ein bestimmte
 r Bruchteil der Zahl der Mitglieder des jeweiligen Parteiorgans oder der
  Anwesenden oder der Zahl der abgegebenen gültigen Stimmen oder der Zahl
- der zu besetzenden Plätze erreicht sein muss, so gilt wie folgt: 
+ der zu besetzenden Plätze erreicht sein muss, so gilt wie folgt:
 \end_layout
 
 \begin_layout Standard
@@ -4057,34 +4089,6 @@ sregeln.
  Daher sind Bruchteile hinter ganzen Zahlen dann abzurunden, wenn sie den
  Wert von 0,5 (die Hälfte) einer ganzen Zahl nicht erreichen; sonst sind
  sie zur nächsten ganzen Zahl aufzurunden.
- 
-\end_layout
-
-\begin_layout Standard
-(3) Für Stichwahlen gilt grundsätzlich: 
-\end_layout
-
-\begin_layout Enumerate
-Es müssen jeweils so viele der nichtgewählten Kandidaten mit den nächstniedriger
-en Stimmenzahlen zur Wahl anstehen, wie sie dem Eineinhalbfachen der Zahl
- der noch nicht besetzten Sitze im Präsidium bzw.
- Bundesvorstand entsprechen.
- 
-\end_layout
-
-\begin_layout Enumerate
-Entfallen hierbei auf die letzte Stelle der Reihenfolge nach Stimmenzahlen
- zwei oder mehrere Kandidaten mit gleichvielen Stimmen, so werden diese
- Kandidaten alle in die Stichwahl einbezogen.
- 
-\end_layout
-
-\begin_layout Standard
-(4) Erhalten mehr Kandidaten die Mehrheit der abgegebenen gültigen Stimmen
- als noch Sitze im Präsidium oder Bundesvorstand zu vergeben sind, so sind
- diejenigen Kandidaten gewählt, die in der Reihenfolge nach Stimmenzahlen
- höhere Stimmenzahlen erreicht haben.
- 
 \end_layout
 
 \begin_layout Addsec
